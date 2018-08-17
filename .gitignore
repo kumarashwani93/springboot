@@ -1,2 +1,6 @@
 /.metadata/
- restful-web-services/target/*
+/restful-web-services/target/*
+/.recommenders/
+/restful-web-services/.classpath
+/restful-web-services/.project
+/restful-web-services/.settings/
